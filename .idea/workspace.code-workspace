@@ -1,0 +1,34 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\LND"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\Proyecto1"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\vidasilvestre"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\vidasilvestreII"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\Tabla"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\practica 5"
+		},
+		{
+			"path": "..\\..\\..\\..\\Escritorio\\practica 5"
+		},
+		{
+			"path": "..\\..\\..\\..\\Escritorio\\LND"
+		},
+		{
+			"path": "..\\..\\..\\..\\Escritorio\\tema3practica3"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "LND"
+    }
+}
